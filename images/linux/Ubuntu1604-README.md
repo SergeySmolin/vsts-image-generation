@@ -19,6 +19,7 @@
 - Heroku (heroku/7.12.5 linux-x64 node-v10.9.0)
 - HHVM (HipHop VM 3.28.0 (rel))
 - ImageMagick
+- Leiningen
 - OpenJDK (7) (java version "1.7.0_95")
 - OpenJDK (8) (openjdk version "1.8.0_181")
 - OpenJDK (9) (openjdk version "9.0.4")
