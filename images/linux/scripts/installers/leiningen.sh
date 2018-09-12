@@ -13,4 +13,4 @@ curl -s https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein 
 
 ## Document what was added to the image
 echo "Lastly, documenting what we added to the metadata file"
-DocumentInstalledItem "Leiningen"
+DocumentInstalledItem "Leiningen version ($(lein -v))"
